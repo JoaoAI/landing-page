@@ -1,6 +1,7 @@
 /* body{
     background-color: #1F2937;
-} */
+}
+*/
 
 .alfa{
     background-color: #1F2937;
@@ -81,3 +82,48 @@ button{
     border: 0;
     margin: 10px 0px;
 }
+
+/* Section 1 Complete */
+
+.one{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.calltoaction{
+    width: 200px;
+    height: 200px;
+    outline: 3px solid #3882F6;
+    background-color: transparent;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.undertext{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 55px;
+}
+
+.bravo{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 560px;
+}
+
+.para{
+    color: #1F2937;
+    width: 170px;
+}
+/* Section 2 Complete */
