@@ -126,4 +126,34 @@ button{
     color: #1F2937;
     width: 170px;
 }
+
 /* Section 2 Complete */
+
+.charlie{
+    background-color: #E5E7EB;
+    height: 560px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vertigo{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 200;
+    color: #1F2937;
+    width: 820px;
+}
+
+.two{
+
+}
+
+.simeon{
+    color: #1F2937;
+    font-size: 25px;
+    font-weight: 900;
+    display: flex;
+    justify-content: flex-end;
+    width: 800px;
+}
