@@ -1,3 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
 .alfa{
     background-color: #1F2937;
     height: 560px;
@@ -17,6 +25,7 @@ h2{
     display: flex;
     height: 100px;
     width: 565px;
+    margin-top: 5px;
 }
 
 ul{
@@ -28,6 +37,7 @@ ul{
     color: #E5E7EB;
     height: 100px;
     width: 500px;
+    margin-top: 5px;
 }
 
 .second{
